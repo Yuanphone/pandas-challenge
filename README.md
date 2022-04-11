@@ -5,8 +5,8 @@
 Based on the previous dataframes, we did further analysis and found the observable trends:
 ### 1. The top 5 performing schools vs.the bottoms 5 performing schools
    The top 5 performing schools are charter schools and the bottoms 5 performing schools are district schools. The total students in top 5 performing schools are less than students in bottom 5 performing schools. The total budget and per student budget in top 5 performing schools is less than in bottom 5 performing schools. The average math and reading score and the percentage 0f passing reading , math and both are obviously higher than the bottom 5 performing schools   
-### 2. Math scores and reading scores by Grade at each school have no obvious difference.
-   In each school, the average math and reading score are calculated for students of each grade level (9th, 10th, 11th, 12th). From the results, there are slight changes in scores by grade but no obvious trend can be observed.
+### 2. Math scores and reading scores by Grade at each school have no significant difference.
+   In each school, the average math and reading score are calculated for students of each grade level (9th, 10th, 11th, 12th). From the results, there are slight changes in scores by grade but no significant trend can be observed.
 ### 3. The per students budget is negative correlated with the school performing.
    The spending budget for each student is higher, and the school performing ( including student's average math score, the average reading score, percent of passing math, percent of passing reading, and the overall passing decreases) is lower. And the per student budget is lower, and the school performing is higher. Therefore, the per student budget and school performing are negative correlated. This irregular finding of this analysis gives an open space for researchers to work on this more.
 ### 4. The school size is larger and the reading and math performances are worse.
